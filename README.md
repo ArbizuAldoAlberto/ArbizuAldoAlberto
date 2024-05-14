@@ -2,25 +2,17 @@
 ### ¡Hola! Soy Aldo 👋
 
 ---
-<!--
-<p align="center">
-  <img src="https://path-to-your-image.com/intro-card.png" width="100%" title="Intro Card" alt="Intro Card">
-</p>
---!>
+
 Soy un apasionado desarrollador de software web con una titulación en Desarrollo Frontend React. Actualmente estoy avanzando en mi formación con un curso de SQL. Me caracteriza mi capacidad de adaptación a diferentes tecnologías y mi compromiso con el aprendizaje continuo. ¡Siempre listo para enfrentar nuevos desafíos y crecer profesionalmente! 🚀
 
-🔭 Actualmente estoy trabajando en proyectos basados en React,Astro y Node.js.
+🔭 Actualmente estoy trabajando en proyectos basados en React Astro y Node.js.
 
 🌱 Estoy aprendiendo <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white">.
 
-:books: Quiero aprender más sobre inteligencia artificial, machine learning, deep learning, procesamiento de lenguaje natural, y el uso de herramientas como ChatGPT.
+:books: Quiero aprender más sobre inteligencia artificial, machine learning, deep learning, procesamiento de lenguaje natural.
 
 👯 Estoy buscando colaborar en proyectos de desarrollo web innovadores.
 
-💬 Pregúntame sobre Desarrollo Web, React, Node.js y cualquier tema relacionado con tecnología.
-<!--
-![Profile views](https://gpvc.arturio.dev/your-username) <img src="https://img.shields.io/github/followers/your-username?label=Follow" style="float:left, margin-right:10px" />
---!>
 ---
 
 ### Tech & Tools Preference
@@ -41,17 +33,12 @@ Soy un apasionado desarrollador de software web con una titulación en Desarroll
 <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white">
 
-
 ### Otros lenguajes que conozco y estoy aprendiendo
 
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
 
 ---
-<!--
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true)
 
----
---!>
 ### Puedes encontrarme en la web 🌍
 
 [<img align="left" alt="Aldo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -61,13 +48,7 @@ Soy un apasionado desarrollador de software web con una titulación en Desarroll
 <br/>
 
 ---
-<!--
-### Puedes ver mis blogs :loudspeaker:
 
-[![Aldo's Blog Cards](https://github-cards-external-blogs.your-username.vercel.app/getMediumBlogs?username=your-username&type=vertical)](https://medium.com/@your-username)
-
----
---!>
 Conectémonos y forjemos el futuro juntos.😁✌
 
 **Revisa los Repositorios y no olvides darles una estrella.** 👇

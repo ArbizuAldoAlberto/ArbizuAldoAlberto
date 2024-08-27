@@ -1,37 +1,38 @@
 
-### ¡Hola! Soy Aldo 👋
+### 👋¡Hola! Soy Aldo 👨‍💻 Desarrollador Full Stack
 
 ---
 
-Soy un apasionado desarrollador de software web con una titulación en Desarrollo Frontend React. Actualmente estoy avanzando en mi formación con un curso de SQL. Me caracteriza mi capacidad de adaptación a diferentes tecnologías y mi compromiso con el aprendizaje continuo. ¡Siempre listo para enfrentar nuevos desafíos y crecer profesionalmente! 🚀
+Soy un desarrollador con sólida experiencia en **React**, **SQL** y **desarrollo web**. Visita mi perfil en [LinkedIn](https://www.linkedin.com/in/aldo-alberto-arbizu) para más información.
+Desarrollador con amplia experiencia en React, SQL y desarrollo web, enfocado en la creación de interfaces de usuario dinámicas y responsivas. Hábil en la optimización del rendimiento web y la gestión eficiente de bases de datos. Comprometido con el aprendizaje continuo y la adopción de metodologías ágiles, busco aportar mis conocimientos técnicos para desarrollar soluciones innovadoras y escalables en el sector IT.
 
-🔭 Actualmente estoy trabajando en proyectos basados en React Astro y Node.js.
-
-🌱 Estoy aprendiendo <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white">.
-
-:books: Quiero aprender más sobre inteligencia artificial, machine learning, deep learning, procesamiento de lenguaje natural.
-
-👯 Estoy buscando colaborar en proyectos de desarrollo web innovadores.
+#React #SQL #DesarrolloWeb #Optimización #BasesDeDatos #MetodologíasÁgiles #IT
 
 ---
 
 ### Tech & Tools Preference
 
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white">
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white">
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white">
 <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white">
 <img src="https://img.shields.io/badge/-Astro-FF5A03?style=flat&logo=astro&logoColor=white">
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white">
+
+
+
 
 ### Otros lenguajes que conozco y estoy aprendiendo
 

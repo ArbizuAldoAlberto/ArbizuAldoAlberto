@@ -70,12 +70,12 @@ Soy un desarrollador con experiencia en **React**, **SQL** y **desarrollo web**.
 <br/>
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lukemorales/lukemorales/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lukemorales/lukemorales/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/lukemorales/lukemorales/output/github-snake.svg" />
+</picture>
 
-Conectemos y construyamos el futuro juntos. 😁✌
-
-**Revisa mis repositorios y no olvides darles una estrella.** 👇
-
-:star: [Aldo's GitHub](https://github.com/JinseiKaizen)
 
 [linkedin]: https://www.linkedin.com/in/aldo-alberto-arbizu/
 [twitter]: https://twitter.com/AldoArbizu

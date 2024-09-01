@@ -7,16 +7,16 @@ Soy un desarrollador con experiencia en **React**, **SQL** y **desarrollo web**.
 
 ### Habilidades Técnicas
 
-**Frontend**:
+**🚀 Frontend**:
 - React, React Native, JavaScript, HTML5, CSS3, Bootstrap, Sass
 
-**Backend**:
+**🌐 Backend**:
 - Node.js, Express.js, SQL, MongoDB, Firebase
 
-**Herramientas**:
+**🛠️ Herramientas**:
 - Git, GitHub, VS Code, Vercel, Astro, Blender, Ultimaker Cura
 
-**Inteligencia Artificial**:
+**🤖 Inteligencia Artificial**:
 - Python, Machine Learning, ChatGPT, Claude Sonnet 3.5, Meta AI, Gemini
 
 ---

@@ -1,0 +1,90 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 10%;
+    --foreground: 0 0% 100%;
+    --primary: 142 69% 49%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 142 69% 35%;
+    --secondary-foreground: 0 0% 100%;
+    --accent: 142 69% 65%;
+    --accent-foreground: 0 0% 100%;
+    --muted: 0 0% 20%;
+    --muted-foreground: 0 0% 60%;
+    --card: 0 0% 15%;
+    --card-foreground: 0 0% 100%;
+    --border: 0 0% 20%;
+    --input: 0 0% 20%;
+    --ring: 142 69% 49%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-primary text-primary-foreground hover:bg-primary/90 
+           transition-colors duration-200 rounded-lg px-4 py-2 
+           font-medium shadow-lg hover:shadow-primary/30;
+  }
+
+  .btn-secondary {
+    @apply bg-secondary text-secondary-foreground hover:bg-secondary/90 
+           transition-colors duration-200 rounded-lg px-4 py-2 
+           font-medium shadow-lg hover:shadow-secondary/30;
+  }
+
+  .input-primary {
+    @apply bg-muted text-foreground border border-input rounded-lg px-4 py-2 
+           focus:outline-none focus:ring-2 focus:ring-ring focus:border-transparent 
+           transition-all duration-200;
+  }
+
+  .card {
+    @apply bg-card text-card-foreground rounded-lg border border-border 
+           shadow-lg hover:shadow-xl transition-all duration-200;
+  }
+}
+
+/* Animaciones personalizadas */
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+/* Scrollbar personalizado */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-muted;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-primary/50 rounded-full hover:bg-primary/70 transition-colors;
+}
+
+/* Selección de texto */
+::selection {
+  @apply bg-primary/30 text-foreground;
+} 

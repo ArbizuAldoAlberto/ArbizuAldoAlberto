@@ -1,9 +1,10 @@
 ### 👋 ¡Hola, soy Aldo! Desarrollador Freelance Creativo ✨
 
 <a href="https://www.linkedin.com/in/aldo-alberto-arbizu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://github.com/ArbizuAldoAlberto" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-Soy un **Desarrollador Freelance Full Stack** apasionado por transformar ideas en experiencias digitales inmersivas y de alto rendimiento. Combino una sólida experiencia en **desarrollo frontend (React, Next.js)** con un creciente interés y habilidades en **diseño e integración 3D (Blender, Three.js)** y la exploración de soluciones innovadoras con **Inteligencia Artificial**.
-
-Busco activamente oportunidades freelance remotas donde pueda aportar valor a través de soluciones tecnológicas creativas, un enfoque centrado en el usuario y la calidad del producto final.
+Me defino como un profesional que busca crear soluciones y ayudar con convicción, asegurando que mi trabajo tenga siempre
+ un fin y un propósito. Mi principal fortaleza es mi capacidad para entender las necesidades comerciales y de ventas de una
+ organización y, a la vez, saber cómo aplicar la tecnología para resolver problemas y mejorar procesos. Busco un rol desafiante
+ donde pueda aplicar esta visión integral para contribuir al éxito de la empresa
 
 ---
 

@@ -79,7 +79,7 @@ He diseñado e implementado una arquitectura completa para aplicaciones de venta
 ### 📊 Mis Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArbizuAldoAlberto&show_icons=true&theme=gotham&hide_border=true" alt="Aldo's Github Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArbizuAldoAlberto&theme=gotham&hide_border=true" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArbizuAldoAlberto&layout=compact&theme=gotham&hide_border=true" alt="Top Langs" />
 </div>

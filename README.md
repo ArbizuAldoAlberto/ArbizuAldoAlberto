@@ -81,8 +81,6 @@ He diseñado e implementado una arquitectura completa para aplicaciones de venta
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArbizuAldoAlberto&theme=gotham&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArbizuAldoAlberto&layout=compact&theme=gotham&hide_border=true" alt="Top Langs" />
-</div>
 
 ---
 

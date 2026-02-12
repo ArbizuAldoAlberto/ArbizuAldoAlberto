@@ -1,51 +1,68 @@
-# Hola, soy Aldo Arbizu 👋
+<div align="center">
+  <a href="https://github.com/ArbizuAldoAlberto">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Aldo+Arbizu+%F0%9F%91%8B;Desarrollador+Mobile+%26+Web;Especialista+en+React+Native;Visión+Comercial+%2B+Código" alt="Typing SVG" />
+  </a>
+</div>
 
-### 🚀 Desarrollador Mobile (React Native) & Frontend | Visión Comercial
+<div align="center">
+  <h3>🚀 Transformando ideas de negocio en aplicaciones escalables</h3>
+  
+  <p>
+    <em>"No solo escribo código; entiendo la rentabilidad, el usuario y el mercado."</em>
+  </p>
 
-> *"Conecto la lógica de negocio con soluciones tecnológicas eficientes."*
+  <a href="https://www.linkedin.com/in/aldo-alberto-arbizu/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:arbizualdoalberto@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-Soy un desarrollador apasionado por crear aplicaciones móviles y webs que resuelvan problemas reales. Lo que me diferencia es mi **sólido background en Ventas y Gestión Comercial**: no solo escribo código, entiendo los objetivos de rentabilidad, la experiencia de usuario y el ciclo de venta de tu producto.
+---
 
-Actualmente, estoy enfocado en el desarrollo mobile con **React Native** y la creación de soluciones E-commerce.
+### 👨‍💻 Sobre mí
+
+Soy un desarrollador de software enfocado en **Mobile (React Native)** y **Frontend**. Lo que me diferencia del resto es mi **sólido background en Ventas y Gestión Comercial**: poseo la capacidad de alinear las soluciones técnicas con los objetivos financieros y estratégicos del negocio.
+
+Actualmente operando desde **Buenos Aires, Argentina 🇦🇷**, me especializo en crear productos digitales que no solo funcionen, sino que vendan.
 
 ---
 
 ### 🛠️ Tech Stack & Herramientas
 
-**Mobile & Frontend:**
-* ⚛️ **React Native** (Expo, CLI)
-* 💻 **React.js** (Hooks, Context API, Redux)
-* 📱 **Android Studio** (Emulación y Configuración)
-* 🌐 **JavaScript (ES6+) / HTML5 / CSS3**
-
-**Backend & Servicios:**
-* 🔥 **Firebase** (Auth, Firestore, Realtime DB)
-* 🗄️ **SQL / SQLite** (Persistencia de datos local)
-* 🔌 **APIs REST** (Integración y consumo)
-
-**Herramientas & Diseño:**
-* 🎨 **Figma** (Interpretación de UI/UX)
-* 🧊 **Blender / Impresión 3D** (Creación de assets)
-* ⚙️ **Git & GitHub** (Control de versiones)
+| Área | Tecnologías |
+| :--- | :--- |
+| **Mobile & Web** | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) |
+| **Lenguajes** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **Backend & Cloud** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) |
+| **Diseño & 3D** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) ![Three.js](https://img.shields.io/badge/ThreeJs-black?style=flat-square&logo=three.js&logoColor=white) |
 
 ---
 
-### 🔭 Actualmente trabajando en
+### 🔭 Estado Actual & Proyectos
 
-* 📱 **E-Commerce Mobile App:** Una aplicación completa en React Native que incluye autenticación de usuarios, catálogo optimizado, carrito de compras y gestión de estado global.
-* 🎓 **Diplomatura en Ciberseguridad:** Integrando buenas prácticas de seguridad en mis desarrollos.
-
-### 🌱 Objetivos a Futuro
-
-Estoy explorando activamente la convergencia entre tecnologías inmersivas y descentralizadas:
-* Integración de **Modelos 3D** en entornos web/mobile (Three.js / React Three Fiber).
-* Implementación de **Blockchain** en aplicaciones móviles.
+* 📱 **E-Commerce Mobile App:** Desarrollo full-stack en React Native con gestión de usuarios, carrito y pasarela de pagos. *(Proyecto Final Coderhouse)*.
+* 🛡️ **Ciberseguridad:** Diplomado en Gestión de la Ciberseguridad (UNGS). Aplico principios de **SecDevOps** para proteger la integridad de los datos en mis desarrollos.
+* ⚙️ **Hardware & 3D:** Entusiasta de la impresión 3D (Mantenimiento y prototipado) y armado de hardware.
 
 ---
 
-### 💼 ¿Buscas un desarrollador que entienda tu negocio?
+### 📈 Mis Estadísticas en GitHub
 
-Estoy disponible para proyectos freelance donde pueda aportar valor técnico y estratégico.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArbizuAldoAlberto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="Aldo's Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArbizuAldoAlberto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top Languages" />
+</div>
 
-* 📫 **Email:** [TuEmailAquí - arbizualdoalberto@gmail.com]
-* 💼 **LinkedIn:** [linkedin.com/in/aldo-alberto-arbizu](https://www.linkedin.com/in/aldo-alberto-arbizu/)
+---
+
+### 💼 ¿Listo para trabajar juntos?
+
+Busco proyectos freelance donde pueda aportar valor técnico y estratégico.
+
+* **Especialidad:** MVPs rápidos, Aplicaciones E-commerce, Refactorización de UI.
+* **Intereses:** Finanzas/Cripto, Tecnología 3D y Seguridad Informática.
+
+[**¡Contáctame en LinkedIn!**](https://www.linkedin.com/in/aldo-alberto-arbizu/)

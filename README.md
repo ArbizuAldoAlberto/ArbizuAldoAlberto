@@ -48,13 +48,6 @@ Actualmente operando desde **Buenos Aires, Argentina 🇦🇷**, me especializo 
 
 ---
 
-### 📈 Mis Estadísticas en GitHub
-
-![Estadísticas de Aldo](https://github-readme-stats.vercel.app/api?username=ArbizuAldoAlberto&show_icons=true&theme=radical)
-
-![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ArbizuAldoAlberto&layout=compact&theme=radical)
-
----
 
 ### 💼 ¿Listo para trabajar juntos?
 

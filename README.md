@@ -50,11 +50,9 @@ Actualmente operando desde **Buenos Aires, Argentina 🇦🇷**, me especializo 
 
 ### 📈 Mis Estadísticas en GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArbizuAldoAlberto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="Aldo's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArbizuAldoAlberto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top Languages" />
-</div>
+![Estadísticas de Aldo](https://github-readme-stats.vercel.app/api?username=ArbizuAldoAlberto&show_icons=true&theme=radical)
+
+![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ArbizuAldoAlberto&layout=compact&theme=radical)
 
 ---
 
